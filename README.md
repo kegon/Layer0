@@ -18,7 +18,7 @@ This is the 3rd layer and outermost gateway into the dEconomy. "Meet The Cryptoe
 
 It is clear to me that for decentralized technology to have any hope of facilitating greater freedom and empowerment for those involved its primary source of value is the community of like minded individuals required to sustain it. People like to talk about "Layer1" as foundation but this project was inspired by the belief that the community is foundational, not the technology, and that is why the community is called "Layer0".   
 
-The long term goal is to have the OpenSource (outside of copyright) code based hosted on Github become a community controlled and governed project handing off decision making to a DAO that would sustain the project long term and Kegon will bow out with smiles. 
+The long term goal is to have the OpenSource (outside of copyright) codebase hosted on Github become a community controlled and governed project handing off decision making to a DAO that would sustain the project long term and Kegon will bow out with smiles. 
 
 Final goal will be when dArtists want to make their own art without being launched into the Layer0 ecosystem. For those dArtists who go on to create their own separate independent work but still want to carry over the value curated in the "Layer0" community comes the "Layer0 dArtist Certification" collection which will be an NFT collection designed for each individual dArtist with their Artist name and sold exclusively to them (without royalties). They can then use it as a marketing tool to help stand out from other creators and can create value if the Layer0 community/brand grows in the NFT space.
 
